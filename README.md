@@ -1,0 +1,2 @@
+# Segmentation_Gandhinagar_IIRS
+Satellite Image Semantic Segmentation Workflow
