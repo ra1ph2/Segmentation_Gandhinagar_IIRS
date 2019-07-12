@@ -1,2 +1,3 @@
 # Segmentation_Gandhinagar_IIRS
-Satellite Image Semantic Segmentation Workflow
+Semantic Segmentation Workflow for High Resolution Satellite Imagery using Transfer Learning on U-Net Architecture
+
